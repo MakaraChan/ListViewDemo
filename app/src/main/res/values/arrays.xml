@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_array">
+        <item>Windows</item>
+        <item>Mac</item>
+        <item>Linux</item>
+        <item>Federra</item>
+        <item>ZentOS</item>
+        <item>Ubuntu</item>
+        <item>Windows</item>
+        <item>Mac</item>
+        <item>Linux</item>
+        <item>Federra</item>
+        <item>ZentOS</item>
+        <item>Ubuntu</item>
+        <item>Windows</item>
+        <item>Mac</item>
+        <item>Linux</item>
+        <item>Federra</item>
+        <item>ZentOS</item>
+        <item>Ubuntu</item>
+        <item>Windows</item>
+        <item>Mac</item>
+        <item>Linux</item>
+        <item>Federra</item>
+        <item>ZentOS</item>
+        <item>Ubuntu</item>
+        <item>Windows</item>
+        <item>Mac</item>
+        <item>Linux</item>
+        <item>Federra</item>
+        <item>ZentOS</item>
+        <item>Ubuntu</item>
+    </string-array>
+</resources>
